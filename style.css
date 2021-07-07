@@ -15,6 +15,7 @@ button{
     width: 60px;
     height: 35px;
     background-color: red;
+    font-weight: 800;
     
 }
 button:hover{
