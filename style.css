@@ -1,0 +1,31 @@
+#head{
+    text-align: center;
+    
+}
+#in{
+    height: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+.section{
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    width: 60px;
+    height: 35px;
+    background-color: red;
+    
+}
+button:hover{
+    background-color: violet;
+}
+#all{
+    background-color: black;
+    color: red;
+    margin-left: 520px;
+    margin-right: 520px;
+    
+
+
+}
